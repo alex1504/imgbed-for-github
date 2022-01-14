@@ -1,0 +1,18 @@
+@import url('./assets/css/normalize.css');
+$primaryColor: #409eff;
+
+a {
+  text-decoration: none;
+  color: $primaryColor;
+  &:hover {
+    color: #66b1ff;
+  }
+}
+
+.c-primary {
+  color: $primaryColor;
+}
+
+.el-icon {
+  font-size: 16px;
+}
