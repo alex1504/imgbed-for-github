@@ -10,10 +10,11 @@
 
 ## 使用方式
 1. 点击插件图标输入七牛或Github图床相关配置并保存
-2. 再次插件图标进行上传
+2. 再次点击插件图标进行上传
+3. 点击页面的链接一键粘贴到Github编辑器
 
 ![settings](https://cdn.jsdelivr.net/gh/sandy1504/media@master/20220112/settings.70g8rwmyncg0.webp)
-
+![1ba9e356d0222b53](https://cdn.jsdelivr.net/gh/sandy1504/media@master/1ba9e356d0222b53.png)
 
 ## Chrome 应用商店
 
